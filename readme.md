@@ -6,8 +6,8 @@
 <p>
 <h3> Ser tiver alguma duvida ou quiser me ajudar em alguns projetos so me chamar pelo:instagram ou pelo Linkedin🌏 </h3>
 <p/>
-<a href="https://cutt.ly/VhmMBss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Igor Henrique Alves" height="30" width="40" /></a>
-<a href="https://www.instagram.com/igor_ptmgkira100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/igor-henrique-alves-755847203/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Igor Henrique Alves" height="30" width="40" /></a>
+<a href="https://www.instagram.com/igor_ptmgkira100/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Igor Henrique Alves" height="30" width="40" /></a>
 </p>
 
 <!--
