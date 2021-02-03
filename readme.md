@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![imggit](https://blog.sumare.edu.br/blog/wp-content/uploads/2017/11/CCOMP.png)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IgorHenrique&show_icons=true&theme=tokyonight)
 
