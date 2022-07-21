@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/cc/8c/b8/cc8cb8ec8a1f443cd4c5159fe8b063d8.gif" height="200"/>
-</p>
 <hr>
 <h1 align="center">Ola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Me chamo Igor mas podem me chamar de Kira</h1>
 <h3 align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>ciencia da computação |<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/></h3>
