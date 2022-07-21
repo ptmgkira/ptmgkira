@@ -36,8 +36,6 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.png"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.png"> </code>
  <code> <img height="50" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/lua/lua.png"> </code>
   <hr>
   <p align="center">
