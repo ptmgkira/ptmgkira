@@ -23,8 +23,6 @@
 
  <hr>
 
-<img align="right" width=300px alt="Unicorn" src="https://pa1.narvii.com/5727/5eeaa58df3bffcb4d16e3f5c3339ee58586d9756_hq.gif" />
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***...Sobre mim...***
 
 ✔ Atualmente estou desenvolvendo o In The Dark Field<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/><br>
