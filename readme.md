@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>
-    Esse sou eu <b>Estudante</b> de ciencia da computação na<a href="https://www.unip.br"> <b>Unip</a>. <br>
+    Esse sou eu <b>Estudante</b> de ciencia da computação <br>
    Amante de Tecnologia <b>E sempre tentando melhorar ao máximo</b> <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30px">
   </em> 
   <br>
